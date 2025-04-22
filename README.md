@@ -1,13 +1,5 @@
-✅ Here’s your updated **requirements file** for the enhanced app:
 
-👉 **[Download requirements_enhanced.txt](sandbox:/mnt/data/requirements_enhanced.txt)**
-
----
-
-### 📄 Now here’s the updated `README.md`:
-
-```markdown
-# 🦷 AI-Powered Marginal Bone Loss (MBL) Predictor – Enhanced
+ 🦷 AI-Powered Marginal Bone Loss (MBL) Predictor – Enhanced
 
 This interactive Streamlit app predicts marginal bone loss (MBL) around implant-supported crowns based on clinical and radiographic features. It now supports:
 
@@ -18,7 +10,7 @@ This interactive Streamlit app predicts marginal bone loss (MBL) around implant-
 
 ---
 
-## 🔍 Features
+🔍 Features
 
 - Predict MBL using:
   - Crown type (PEKK or LD)
@@ -33,7 +25,7 @@ This interactive Streamlit app predicts marginal bone loss (MBL) around implant-
 
 ---
 
-## 📂 Example Input File
+📂 Example Input File
 
 ```csv
 crown_type,gender,implant_site,baseline_HU,delta_HU
